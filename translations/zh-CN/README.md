@@ -22,7 +22,7 @@
 
 1. [使用CSS复位](#use-a-css-reset)
 1. [继承 `box-sizing`](#inherit-box-sizing)
-1. [使用 `:not()` 选择器来决定表单是否显示边框](#use-not-to-applyunapply-borders-on-navigation)
+1. [使用 `:not()` 选择器来决定导航是否显示边框](#use-not-to-applyunapply-borders-on-navigation)
 1. [为 body 元素添加行高](#add-line-height-to-body)
 1. [垂直居中任何元素](#vertically-center-anything)
 1. [逗号分隔的列表](#comma-separated-lists)
@@ -86,7 +86,7 @@ html {
 
 
 <div id="use-not-to-applyunapply-borders-on-navigation"></div>
-### 使用 `:not()` 选择器来决定表单是否显示边框
+### 使用 `:not()` 选择器来决定导航是否显示边框
 
 先为元素添加边框
 
